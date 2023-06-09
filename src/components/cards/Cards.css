@@ -1,0 +1,24 @@
+.card-container {
+    max-width: 15rem;
+    min-width: 11rem;
+    height: 11rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    margin: 0.5rem;
+    padding: 10px;
+  }
+
+.info {
+    height: fit-content;
+    display: grid;
+    place-items: center;
+}
+
+.check {
+  width: 100%;
+  display: grid;
+  place-items: start;
+}
+  

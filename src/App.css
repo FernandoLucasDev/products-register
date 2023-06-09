@@ -1,0 +1,21 @@
+* {
+  padding:0;
+  margin:0;
+  vertical-align:baseline;
+  list-style:none;
+  border:0
+}
+
+.main {
+  width: 100%;
+  height: 100vh;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.back {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  flex-wrap: wrap;
+}
